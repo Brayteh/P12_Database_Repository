@@ -12,3 +12,4 @@ class Medikament {
     DateTime zeit;
 Medikament(this.id, this.name, this.dosis, this.zeit);
 }
+
